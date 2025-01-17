@@ -1,0 +1,15 @@
+{
+    "appBar": {
+        "visible": true,
+        "titleAlignment": "center"
+    },
+    "productList": {
+        "visible": true,
+        "layout": "grid",
+        "columns": 2
+    },
+    "cartButton": {
+        "visible": true,
+        "position": "bottomRight"
+    }
+}
